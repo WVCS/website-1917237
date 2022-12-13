@@ -1,3 +1,41 @@
 body {
-
+Background-color: #C5D5E4
+}
+h2{
+  color:#7E6551;
+   font-size: 350%;
+   letter-spacing: 10px; 
+   text-decoration: underline;
+}
+p{
+  color:#7E6551;  
+   font-size: 200%;
+}
+img{
+  border: solid #7E6551 7px;
+  height: 50%;
+  width: 50%;
+}
+iframe {
+  border: solid #7E6551 7px
+}
+ul{
+  list-style-type: none;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 40px;
+  font-family: "Vidaloka";
+  border-style: dashed;
+  color: #466362;
+  text-decoration-line: none;
+}
+li a:hover{
+  background-color:white;
+  color: red;
 }
